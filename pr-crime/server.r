@@ -11,6 +11,8 @@ library(ggmap)
 library(leaflet)
 library(chron) # for dealing with chronological objects
 library(plyr) # rename
+# register_google(key = "AIzaSyB9FHRfA0LvXs7k1WilJgAq2kyqbR1tOrM")
+register_google(key = "AIzaSyDV235gPhQgTX0_uHbxgCB5JqbdQkoj_L8")
 
 shinyServer(function(input, output, session) {
     

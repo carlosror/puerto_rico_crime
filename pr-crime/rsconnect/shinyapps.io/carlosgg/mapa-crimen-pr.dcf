@@ -1,7 +1,9 @@
 name: mapa-crimen-pr
+title:
 account: carlosgg
 server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
 appId: 114283
-bundleId: 530787
+bundleId: 2418475
 url: https://carlosgg.shinyapps.io/mapa-crimen-pr/
-when: 1471035850.43982
+when: 1568671882.25177
